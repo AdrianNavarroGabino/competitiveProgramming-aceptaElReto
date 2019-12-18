@@ -1,6 +1,6 @@
 # competitiveProgramming-aceptaElReto
 ## Competitive programming challenges solved from http://www.aceptaelreto.com
-### User: [AdriaNavarroGabino](https://aceptaelreto.com/user/profile.php?id=16277)  
+### User: [AdrianNavarroGabino](https://aceptaelreto.com/user/profile.php?id=16277)  
 
 
 Challenges:
