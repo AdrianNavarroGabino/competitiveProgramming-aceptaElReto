@@ -82,4 +82,5 @@ Challenge | Result
 [515 - Poniendo la mesa](https://www.aceptaelreto.com/problem/statement.php?id=515) | Accepted
 [518 - Asamblea General de Indiana](https://www.aceptaelreto.com/problem/statement.php?id=518) | Accepted
 [520 - ¿Dónde está la bolita?](https://www.aceptaelreto.com/problem/statement.php?id=520) | Accepted
+[532 - Reduciendo envases](https://www.aceptaelreto.com/problem/statement.php?id=532) | Accepted
 [537 - Movilidad sostenible](https://www.aceptaelreto.com/problem/statement.php?id=537) | Accepted
