@@ -84,5 +84,6 @@ Challenge | Result
 [520 - ¿Dónde está la bolita?](https://www.aceptaelreto.com/problem/statement.php?id=520) | Accepted
 [532 - Reduciendo envases](https://www.aceptaelreto.com/problem/statement.php?id=532) | Accepted
 [533 - La botella ganadora](https://www.aceptaelreto.com/problem/statement.php?id=533) | Accepted
+[534 - Tras el festival](https://www.aceptaelreto.com/problem/statement.php?id=534) | Accepted
 [535 - Desembalse](https://www.aceptaelreto.com/problem/statement.php?id=535) | Accepted
 [537 - Movilidad sostenible](https://www.aceptaelreto.com/problem/statement.php?id=537) | Accepted
