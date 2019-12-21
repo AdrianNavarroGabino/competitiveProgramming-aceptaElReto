@@ -29,6 +29,7 @@ Challenge | Result
 [170 - Triángulos con piedras](https://www.aceptaelreto.com/problem/statement.php?id=170) | Accepted
 [176 - Campo de minas](https://www.aceptaelreto.com/problem/statement.php?id=176) | Accepted
 [180 - Triángulos](https://www.aceptaelreto.com/problem/statement.php?id=180) | Accepted
+[182 - Persistencia multiplicativa de los números](https://www.aceptaelreto.com/problem/statement.php?id=182) | Accepted
 [184 - El sueño de los concursantes](https://www.aceptaelreto.com/problem/statement.php?id=184) | Accepted
 [191 - Los problemas de ser rico](https://www.aceptaelreto.com/problem/statement.php?id=191) | Accepted
 [197 - Mensaje interceptado](https://www.aceptaelreto.com/problem/statement.php?id=197) | Accepted
