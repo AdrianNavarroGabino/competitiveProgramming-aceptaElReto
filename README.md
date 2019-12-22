@@ -79,6 +79,7 @@ Challenge | Result
 [477 - A la captura del Doctor Muerte](https://www.aceptaelreto.com/problem/statement.php?id=477) | Accepted
 [479 - El hombre sin miedo y sin radar](https://www.aceptaelreto.com/problem/statement.php?id=479) | Accepted
 [480 - ¿Cuántas pido?](https://www.aceptaelreto.com/problem/statement.php?id=480) | Accepted
+[481 - Ajedrez asistido por computador](https://www.aceptaelreto.com/problem/statement.php?id=481) | Accepted
 [512 - Döner sospechoso](https://www.aceptaelreto.com/problem/statement.php?id=512) | Accepted
 [515 - Poniendo la mesa](https://www.aceptaelreto.com/problem/statement.php?id=515) | Accepted
 [518 - Asamblea General de Indiana](https://www.aceptaelreto.com/problem/statement.php?id=518) | Accepted
