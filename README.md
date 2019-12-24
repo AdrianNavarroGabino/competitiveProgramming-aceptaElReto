@@ -68,6 +68,7 @@ Challenge | Result
 [381 - Alineación planetaria](https://www.aceptaelreto.com/problem/statement.php?id=381) | Accepted
 [390 - Pixel Art](https://www.aceptaelreto.com/problem/statement.php?id=390) | Accepted
 [403 - En campos de fútbol](https://www.aceptaelreto.com/problem/statement.php?id=403) | Accepted
+[407 - Rebotando en el parchís](https://www.aceptaelreto.com/problem/statement.php?id=407) | Accepted
 [413 - Claras y oscuras](https://www.aceptaelreto.com/problem/statement.php?id=413) | Accepted
 [418 - RENUM](https://www.aceptaelreto.com/problem/statement.php?id=418) | Accepted
 [432 - Escapando de las fuerzas imperiales](https://www.aceptaelreto.com/problem/statement.php?id=432) | Accepted
