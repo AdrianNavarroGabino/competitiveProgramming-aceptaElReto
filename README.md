@@ -8,6 +8,7 @@ Challenges:
 Challenge | Result
 --- | :---:
 [100 - Constante de Kaprekar](https://www.aceptaelreto.com/problem/statement.php?id=100) | Accepted 
+[103 - Problemas de Herencia](https://www.aceptaelreto.com/problem/statement.php?id=103) | Accepted 
 [114 - Último dígito del factorial](https://www.aceptaelreto.com/problem/statement.php?id=114) | Accepted
 [116 - ¡Hola Mundo!](https://www.aceptaelreto.com/problem/statement.php?id=116) | Accepted
 [117 - La fiesta aburrida](https://www.aceptaelreto.com/problem/statement.php?id=117) | Accepted
