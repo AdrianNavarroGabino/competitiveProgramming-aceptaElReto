@@ -48,6 +48,7 @@ Challenge | Result
 [267 - Postes para un cercado](https://www.aceptaelreto.com/problem/statement.php?id=267) | Accepted
 [270 - Me pilló el toro](https://www.aceptaelreto.com/problem/statement.php?id=270) | Accepted
 [272 - Tres dedos en cada mano](https://www.aceptaelreto.com/problem/statement.php?id=272) | Accepted
+[282 - Agujeros en la manguera](https://www.aceptaelreto.com/problem/statement.php?id=282) | Accepted
 [283 - Invirtiendo en Jaén](https://www.aceptaelreto.com/problem/statement.php?id=283) | Accepted
 [293 - Artrópodos](https://www.aceptaelreto.com/problem/statement.php?id=293) | Accepted
 [300 - Palabras pentavocálicas](https://www.aceptaelreto.com/problem/statement.php?id=300) | Accepted
