@@ -22,6 +22,7 @@ Challenge | Result
 [152 - Va de modas...](https://www.aceptaelreto.com/problem/statement.php?id=152) | Accepted
 [155 - Perímetro de un rectángulo](https://www.aceptaelreto.com/problem/statement.php?id=155) | Accepted
 [156 - Ascensor](https://www.aceptaelreto.com/problem/statement.php?id=156) | Accepted
+[157 - ¿Cuántos días faltan?](https://www.aceptaelreto.com/problem/statement.php?id=157) | Accepted
 [158 - Los saltos de Mario](https://www.aceptaelreto.com/problem/statement.php?id=158) | Accepted
 [160 - Matrices triangulares](https://www.aceptaelreto.com/problem/statement.php?id=160) | Accepted
 [165 - Número hyperpar](https://www.aceptaelreto.com/problem/statement.php?id=165) | Accepted
@@ -69,16 +70,20 @@ Challenge | Result
 [376 - Siete picos](https://www.aceptaelreto.com/problem/statement.php?id=376) | Accepted
 [380 - ¡Me caso!](https://www.aceptaelreto.com/problem/statement.php?id=380) | Accepted
 [381 - Alineación planetaria](https://www.aceptaelreto.com/problem/statement.php?id=381) | Accepted
+[382 - Internet en el metro](https://www.aceptaelreto.com/problem/statement.php?id=382) | Accepted
+[388 - Colocando barcos](https://www.aceptaelreto.com/problem/statement.php?id=388) | Accepted
 [390 - Pixel Art](https://www.aceptaelreto.com/problem/statement.php?id=390) | Accepted
 [403 - En campos de fútbol](https://www.aceptaelreto.com/problem/statement.php?id=403) | Accepted
 [407 - Rebotando en el parchís](https://www.aceptaelreto.com/problem/statement.php?id=407) | Accepted
 [408 - La maldición de la lotería](https://www.aceptaelreto.com/problem/statement.php?id=408) | Accepted
 [413 - Claras y oscuras](https://www.aceptaelreto.com/problem/statement.php?id=413) | Accepted
 [418 - RENUM](https://www.aceptaelreto.com/problem/statement.php?id=418) | Accepted
+[426 - Caramelos de reyes](https://www.aceptaelreto.com/problem/statement.php?id=426) | Accepted
 [432 - Escapando de las fuerzas imperiales](https://www.aceptaelreto.com/problem/statement.php?id=432) | Accepted
 [433 - Racimos de uvas](https://www.aceptaelreto.com/problem/statement.php?id=433) | Accepted
 [434 - Romance en el palomar](https://www.aceptaelreto.com/problem/statement.php?id=434) | Accepted
 [439 - Velocidad = desplazamiento/tiempo](https://www.aceptaelreto.com/problem/statement.php?id=439) | Accepted
+[467 - Polisílaba es polisílaba](https://www.aceptaelreto.com/problem/statement.php?id=467) | Accepted
 [471 - Buscando el pinchazo](https://www.aceptaelreto.com/problem/statement.php?id=471) | Accepted
 [474 - Tu amigable vecino](https://www.aceptaelreto.com/problem/statement.php?id=474) | Accepted
 [475 - Cameos de Stan Lee](https://www.aceptaelreto.com/problem/statement.php?id=475) | Accepted
@@ -86,6 +91,7 @@ Challenge | Result
 [479 - El hombre sin miedo y sin radar](https://www.aceptaelreto.com/problem/statement.php?id=479) | Accepted
 [480 - ¿Cuántas pido?](https://www.aceptaelreto.com/problem/statement.php?id=480) | Accepted
 [481 - Ajedrez asistido por computador](https://www.aceptaelreto.com/problem/statement.php?id=481) | Accepted
+[485 - Senda pirenaica](https://www.aceptaelreto.com/problem/statement.php?id=485) | Accepted
 [512 - Döner sospechoso](https://www.aceptaelreto.com/problem/statement.php?id=512) | Accepted
 [515 - Poniendo la mesa](https://www.aceptaelreto.com/problem/statement.php?id=515) | Accepted
 [518 - Asamblea General de Indiana](https://www.aceptaelreto.com/problem/statement.php?id=518) | Accepted
