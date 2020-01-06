@@ -94,6 +94,7 @@ Challenge | Result
 [481 - Ajedrez asistido por computador](https://www.aceptaelreto.com/problem/statement.php?id=481) | Accepted
 [485 - Senda pirenaica](https://www.aceptaelreto.com/problem/statement.php?id=485) | Accepted
 [512 - Döner sospechoso](https://www.aceptaelreto.com/problem/statement.php?id=512) | Accepted
+[513 - Empleado del año](https://www.aceptaelreto.com/problem/statement.php?id=513) | Accepted
 [515 - Poniendo la mesa](https://www.aceptaelreto.com/problem/statement.php?id=515) | Accepted
 [518 - Asamblea General de Indiana](https://www.aceptaelreto.com/problem/statement.php?id=518) | Accepted
 [520 - ¿Dónde está la bolita?](https://www.aceptaelreto.com/problem/statement.php?id=520) | Accepted
