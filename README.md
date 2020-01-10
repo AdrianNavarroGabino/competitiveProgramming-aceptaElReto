@@ -53,6 +53,7 @@ Challenge | Result
 [293 - Artrópodos](https://www.aceptaelreto.com/problem/statement.php?id=293) | Accepted
 [300 - Palabras pentavocálicas](https://www.aceptaelreto.com/problem/statement.php?id=300) | Accepted
 [313 - Fin de mes](https://www.aceptaelreto.com/problem/statement.php?id=313) | Accepted
+[314 - Temperaturas extremas](https://www.aceptaelreto.com/problem/statement.php?id=314) | Accepted
 [321 - Double decker](https://www.aceptaelreto.com/problem/statement.php?id=321) | Accepted
 [335 - Pirámide de canicas](https://www.aceptaelreto.com/problem/statement.php?id=335) | Accepted
 [337 - La abuela María](https://www.aceptaelreto.com/problem/statement.php?id=337) | Accepted
