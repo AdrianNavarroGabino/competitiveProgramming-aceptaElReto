@@ -87,6 +87,7 @@ Challenge | Result
 [433 - Racimos de uvas](https://www.aceptaelreto.com/problem/statement.php?id=433) | Accepted
 [434 - Romance en el palomar](https://www.aceptaelreto.com/problem/statement.php?id=434) | Accepted
 [439 - Velocidad = desplazamiento/tiempo](https://www.aceptaelreto.com/problem/statement.php?id=439) | Accepted
+[442 - Camellos, serpientes y kebabs](https://www.aceptaelreto.com/problem/statement.php?id=442) | Accepted
 [467 - Polisílaba es polisílaba](https://www.aceptaelreto.com/problem/statement.php?id=467) | Accepted
 [471 - Buscando el pinchazo](https://www.aceptaelreto.com/problem/statement.php?id=471) | Accepted
 [474 - Tu amigable vecino](https://www.aceptaelreto.com/problem/statement.php?id=474) | Accepted
