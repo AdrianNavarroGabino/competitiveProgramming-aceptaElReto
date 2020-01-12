@@ -51,6 +51,7 @@ Challenge | Result
 [282 - Agujeros en la manguera](https://www.aceptaelreto.com/problem/statement.php?id=282) | Accepted
 [283 - Invirtiendo en Jaén](https://www.aceptaelreto.com/problem/statement.php?id=283) | Accepted
 [293 - Artrópodos](https://www.aceptaelreto.com/problem/statement.php?id=293) | Accepted
+[297 - Resistencias en serie](https://www.aceptaelreto.com/problem/statement.php?id=297) | Accepted
 [300 - Palabras pentavocálicas](https://www.aceptaelreto.com/problem/statement.php?id=300) | Accepted
 [313 - Fin de mes](https://www.aceptaelreto.com/problem/statement.php?id=313) | Accepted
 [314 - Temperaturas extremas](https://www.aceptaelreto.com/problem/statement.php?id=314) | Accepted
