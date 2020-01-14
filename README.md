@@ -108,3 +108,4 @@ Challenge | Result
 [534 - Tras el festival](https://www.aceptaelreto.com/problem/statement.php?id=534) | Accepted
 [535 - Desembalse](https://www.aceptaelreto.com/problem/statement.php?id=535) | Accepted
 [537 - Movilidad sostenible](https://www.aceptaelreto.com/problem/statement.php?id=537) | Accepted
+[540 - Por el hueco de la escalera](https://www.aceptaelreto.com/problem/statement.php?id=540) | Accepted
