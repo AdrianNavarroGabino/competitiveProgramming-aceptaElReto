@@ -17,9 +17,9 @@ Challenge | Result
 [140 - Suma de dígitos](https://www.aceptaelreto.com/problem/statement.php?id=140) | Accepted
 [148 - Nochevieja](https://www.aceptaelreto.com/problem/statement.php?id=148) | Accepted
 [150 - ¡A dibujar hexágonos!](https://www.aceptaelreto.com/problem/statement.php?id=150) | Accepted
+[151 - ¿Es matriz identidad?](https://www.aceptaelreto.com/problem/statement.php?id=151) | Accepted
 [153 - Reloj a través del espejo](https://www.aceptaelreto.com/problem/statement.php?id=153) | Accepted
 [154 - ¿Cuál es la siguiente matrícula?](https://www.aceptaelreto.com/problem/statement.php?id=154) | Accepted
-[152 - Va de modas...](https://www.aceptaelreto.com/problem/statement.php?id=152) | Accepted
 [155 - Perímetro de un rectángulo](https://www.aceptaelreto.com/problem/statement.php?id=155) | Accepted
 [156 - Ascensor](https://www.aceptaelreto.com/problem/statement.php?id=156) | Accepted
 [157 - ¿Cuántos días faltan?](https://www.aceptaelreto.com/problem/statement.php?id=157) | Accepted
