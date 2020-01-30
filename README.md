@@ -31,6 +31,7 @@ Challenge | Result
 [168 - La pieza perdida](https://www.aceptaelreto.com/problem/statement.php?id=168) | Accepted
 [170 - Triángulos con piedras](https://www.aceptaelreto.com/problem/statement.php?id=170) | Accepted
 [171 - Abadías pirenáicas](https://www.aceptaelreto.com/problem/statement.php?id=171) | Accepted
+[172 - El pan en las bodas](https://www.aceptaelreto.com/problem/statement.php?id=172) | Accepted
 [176 - Campo de minas](https://www.aceptaelreto.com/problem/statement.php?id=176) | Accepted
 [180 - Triángulos](https://www.aceptaelreto.com/problem/statement.php?id=180) | Accepted
 [182 - Persistencia multiplicativa de los números](https://www.aceptaelreto.com/problem/statement.php?id=182) | Accepted
