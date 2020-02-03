@@ -16,6 +16,7 @@ Challenge | Result
 [126 - Divisores del factorial](https://www.aceptaelreto.com/problem/statement.php?id=126) | Accepted
 [140 - Suma de dígitos](https://www.aceptaelreto.com/problem/statement.php?id=140) | Accepted
 [148 - Nochevieja](https://www.aceptaelreto.com/problem/statement.php?id=148) | Accepted
+[149 - San Fermines](https://www.aceptaelreto.com/problem/statement.php?id=149) | Accepted
 [150 - ¡A dibujar hexágonos!](https://www.aceptaelreto.com/problem/statement.php?id=150) | Accepted
 [151 - ¿Es matriz identidad?](https://www.aceptaelreto.com/problem/statement.php?id=151) | Accepted
 [153 - Reloj a través del espejo](https://www.aceptaelreto.com/problem/statement.php?id=153) | Accepted
