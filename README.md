@@ -70,6 +70,7 @@ Challenge | Result
 [355 - Gregorio XIII](https://www.aceptaelreto.com/problem/statement.php?id=355) | Accepted
 [360 - Rellenando el agua de la fuente](https://www.aceptaelreto.com/problem/statement.php?id=360) | Accepted
 [362 - El día de Navidad](https://www.aceptaelreto.com/problem/statement.php?id=362) | Accepted
+[363 - Las calorías](https://www.aceptaelreto.com/problem/statement.php?id=363) | Accepted
 [364 - Espionaje en Navidad](https://www.aceptaelreto.com/problem/statement.php?id=364) | Accepted
 [368 - Cociendo huevos](https://www.aceptaelreto.com/problem/statement.php?id=368) | Accepted
 [369 - Contando en la arena](https://www.aceptaelreto.com/problem/statement.php?id=369) | Accepted
