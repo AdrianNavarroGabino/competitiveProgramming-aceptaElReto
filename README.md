@@ -112,6 +112,7 @@ Challenge | Result
 [513 - Empleado del año](https://www.aceptaelreto.com/problem/statement.php?id=513) | Accepted
 [515 - Poniendo la mesa](https://www.aceptaelreto.com/problem/statement.php?id=515) | Accepted
 [518 - Asamblea General de Indiana](https://www.aceptaelreto.com/problem/statement.php?id=518) | Accepted
+[525 - Multas desde el cielo](https://www.aceptaelreto.com/problem/statement.php?id=525) | Accepted
 [520 - ¿Dónde está la bolita?](https://www.aceptaelreto.com/problem/statement.php?id=520) | Accepted
 [532 - Reduciendo envases](https://www.aceptaelreto.com/problem/statement.php?id=532) | Accepted
 [533 - La botella ganadora](https://www.aceptaelreto.com/problem/statement.php?id=533) | Accepted
