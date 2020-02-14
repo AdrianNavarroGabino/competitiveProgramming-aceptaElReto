@@ -27,6 +27,7 @@ Challenge | Result
 [158 - Los saltos de Mario](https://www.aceptaelreto.com/problem/statement.php?id=158) | Accepted
 [160 - Matrices triangulares](https://www.aceptaelreto.com/problem/statement.php?id=160) | Accepted
 [161 - Cálculo de la Mediana](https://www.aceptaelreto.com/problem/statement.php?id=161) | Accepted
+[163 - Súmale uno](https://www.aceptaelreto.com/problem/statement.php?id=163) | Accepted
 [164 - Área de un rectángulo](https://www.aceptaelreto.com/problem/statement.php?id=164) | Accepted
 [165 - Número hyperpar](https://www.aceptaelreto.com/problem/statement.php?id=165) | Accepted
 [166 - Zapping](https://www.aceptaelreto.com/problem/statement.php?id=166) | Accepted
