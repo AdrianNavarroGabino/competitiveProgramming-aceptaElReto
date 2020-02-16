@@ -120,6 +120,7 @@ Challenge | Result
 [533 - La botella ganadora](https://www.aceptaelreto.com/problem/statement.php?id=533) | Accepted
 [534 - Tras el festival](https://www.aceptaelreto.com/problem/statement.php?id=534) | Accepted
 [535 - Desembalse](https://www.aceptaelreto.com/problem/statement.php?id=535) | Accepted
+[536 - Huerto ecológico](https://www.aceptaelreto.com/problem/statement.php?id=536) | Accepted
 [537 - Movilidad sostenible](https://www.aceptaelreto.com/problem/statement.php?id=537) | Accepted
 [539 - ¡Feliz década nueva?](https://www.aceptaelreto.com/problem/statement.php?id=539) | Accepted
 [540 - Por el hueco de la escalera](https://www.aceptaelreto.com/problem/statement.php?id=540) | Accepted
