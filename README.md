@@ -48,6 +48,7 @@ Challenge | Result
 [216 - Goteras](https://www.aceptaelreto.com/problem/statement.php?id=216) | Accepted
 [217 - ¿Qué lado de la calle?](https://www.aceptaelreto.com/problem/statement.php?id=217) | Accepted
 [219 - La lotería de la peña Atlética](https://www.aceptaelreto.com/problem/statement.php?id=219) | Accepted
+[221 - Entrando al cine](https://www.aceptaelreto.com/problem/statement.php?id=221) | Accepted
 [224 - Los bocadillos de la hormiga reina](https://www.aceptaelreto.com/problem/statement.php?id=224) | Accepted
 [242 - Erasmús](https://www.aceptaelreto.com/problem/statement.php?id=242) | Accepted
 [247 - Saliendo de la crisis](https://www.aceptaelreto.com/problem/statement.php?id=247) | Accepted
