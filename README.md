@@ -77,6 +77,7 @@ Challenge | Result
 [362 - El día de Navidad](https://www.aceptaelreto.com/problem/statement.php?id=362) | Accepted
 [363 - Las calorías](https://www.aceptaelreto.com/problem/statement.php?id=363) | Accepted
 [364 - Espionaje en Navidad](https://www.aceptaelreto.com/problem/statement.php?id=364) | Accepted
+[366 - Los niños buenos](https://www.aceptaelreto.com/problem/statement.php?id=366) | Accepted
 [368 - Cociendo huevos](https://www.aceptaelreto.com/problem/statement.php?id=368) | Accepted
 [369 - Contando en la arena](https://www.aceptaelreto.com/problem/statement.php?id=369) | Accepted
 [370 - La 13-14](https://www.aceptaelreto.com/problem/statement.php?id=370) | Accepted
