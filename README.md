@@ -39,6 +39,7 @@ Challenge | Result
 [180 - Triángulos](https://www.aceptaelreto.com/problem/statement.php?id=180) | Accepted
 [182 - Persistencia multiplicativa de los números](https://www.aceptaelreto.com/problem/statement.php?id=182) | Accepted
 [184 - El sueño de los concursantes](https://www.aceptaelreto.com/problem/statement.php?id=184) | Accepted
+[185 - Potitos](https://www.aceptaelreto.com/problem/statement.php?id=185) | Accepted
 [188 - Encadenando palabras](https://www.aceptaelreto.com/problem/statement.php?id=188) | Accepted
 [190 - Dividir factoriales](https://www.aceptaelreto.com/problem/statement.php?id=190) | Accepted
 [191 - Los problemas de ser rico](https://www.aceptaelreto.com/problem/statement.php?id=191) | Accepted
