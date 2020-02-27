@@ -102,6 +102,7 @@ Challenge | Result
 [424 - Ahorro infantil](https://www.aceptaelreto.com/problem/statement.php?id=424) | Accepted
 [426 - Caramelos de reyes](https://www.aceptaelreto.com/problem/statement.php?id=426) | Accepted
 [427 - Yo soy tu...](https://www.aceptaelreto.com/problem/statement.php?id=427) | Accepted
+[428 - Tendencia al lado oscuro](https://www.aceptaelreto.com/problem/statement.php?id=428) | Accepted
 [432 - Escapando de las fuerzas imperiales](https://www.aceptaelreto.com/problem/statement.php?id=432) | Accepted
 [433 - Racimos de uvas](https://www.aceptaelreto.com/problem/statement.php?id=433) | Accepted
 [434 - Romance en el palomar](https://www.aceptaelreto.com/problem/statement.php?id=434) | Accepted
