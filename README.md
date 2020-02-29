@@ -55,6 +55,7 @@ Challenge | Result
 [221 - Entrando al cine](https://www.aceptaelreto.com/problem/statement.php?id=221) | Accepted
 [222 - Serie de potencias](https://www.aceptaelreto.com/problem/statement.php?id=222) | Accepted
 [224 - Los bocadillos de la hormiga reina](https://www.aceptaelreto.com/problem/statement.php?id=224) | Accepted
+[233 - Menor número con la misma suma de dígitos](https://www.aceptaelreto.com/problem/statement.php?id=233) | Accepted
 [234 - Carreras de coches](https://www.aceptaelreto.com/problem/statement.php?id=234) | Accepted
 [242 - Erasmús](https://www.aceptaelreto.com/problem/statement.php?id=242) | Accepted
 [243 - Asalto al castillo](https://www.aceptaelreto.com/problem/statement.php?id=243) | Accepted
