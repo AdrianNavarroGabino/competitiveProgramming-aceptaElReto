@@ -80,6 +80,7 @@ Challenge | Result
 [342 - ¡No lo puedes saber!](https://www.aceptaelreto.com/problem/statement.php?id=342) | Accepted
 [344 - Conectando cables](https://www.aceptaelreto.com/problem/statement.php?id=344) | Accepted
 [350 - El triángulo de mayor área](https://www.aceptaelreto.com/problem/statement.php?id=350) | Accepted
+[354 - ¡Los niños primero!](https://www.aceptaelreto.com/problem/statement.php?id=354) | Accepted
 [355 - Gregorio XIII](https://www.aceptaelreto.com/problem/statement.php?id=355) | Accepted
 [360 - Rellenando el agua de la fuente](https://www.aceptaelreto.com/problem/statement.php?id=360) | Accepted
 [362 - El día de Navidad](https://www.aceptaelreto.com/problem/statement.php?id=362) | Accepted
