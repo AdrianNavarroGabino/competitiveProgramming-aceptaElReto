@@ -61,6 +61,7 @@ Challenge | Result
 [241 - Me quiere, no me quiere](https://www.aceptaelreto.com/problem/statement.php?id=241) | Accepted
 [242 - Erasmús](https://www.aceptaelreto.com/problem/statement.php?id=242) | Accepted
 [243 - Asalto al castillo](https://www.aceptaelreto.com/problem/statement.php?id=243) | Accepted
+[245 - Los Dalton](https://www.aceptaelreto.com/problem/statement.php?id=245) | Accepted
 [247 - Saliendo de la crisis](https://www.aceptaelreto.com/problem/statement.php?id=247) | Accepted
 [262 - Ada, Babbage y Bernouilli](https://www.aceptaelreto.com/problem/statement.php?id=262) | Accepted
 [265 - Suma descendente](https://www.aceptaelreto.com/problem/statement.php?id=265) | Accepted
