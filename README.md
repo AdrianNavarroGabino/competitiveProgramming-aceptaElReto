@@ -47,6 +47,7 @@ Challenge | Result
 [188 - Encadenando palabras](https://www.aceptaelreto.com/problem/statement.php?id=188) | Accepted
 [190 - Dividir factoriales](https://www.aceptaelreto.com/problem/statement.php?id=190) | Accepted
 [191 - Los problemas de ser rico](https://www.aceptaelreto.com/problem/statement.php?id=191) | Accepted
+[193 - Números reversibles](https://www.aceptaelreto.com/problem/statement.php?id=193) | Accepted
 [197 - Mensaje interceptado](https://www.aceptaelreto.com/problem/statement.php?id=197) | Accepted
 [205 - Números de Lychrel](https://www.aceptaelreto.com/problem/statement.php?id=205) | Accepted
 [208 - Tirando bolos](https://www.aceptaelreto.com/problem/statement.php?id=208) | Accepted
