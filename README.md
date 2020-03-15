@@ -11,6 +11,7 @@ Challenge | Result
 [101 - Cuadrados diabólicos y esotéricos](https://www.aceptaelreto.com/problem/statement.php?id=101) | Accepted
 [102 - Encriptación de mensajes](https://www.aceptaelreto.com/problem/statement.php?id=102) | Accepted
 [103 - Problemas de Herencia](https://www.aceptaelreto.com/problem/statement.php?id=103) | Accepted 
+[112 - Radares de tramo](https://www.aceptaelreto.com/problem/statement.php?id=112) | Accepted
 [114 - Último dígito del factorial](https://www.aceptaelreto.com/problem/statement.php?id=114) | Accepted
 [116 - ¡Hola Mundo!](https://www.aceptaelreto.com/problem/statement.php?id=116) | Accepted
 [117 - La fiesta aburrida](https://www.aceptaelreto.com/problem/statement.php?id=117) | Accepted
