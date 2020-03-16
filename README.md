@@ -16,6 +16,7 @@ Challenge | Result
 [116 - ¡Hola Mundo!](https://www.aceptaelreto.com/problem/statement.php?id=116) | Accepted
 [117 - La fiesta aburrida](https://www.aceptaelreto.com/problem/statement.php?id=117) | Accepted
 [119 - Escudos del ejército romano](https://www.aceptaelreto.com/problem/statement.php?id=119) | Accepted
+[124 - ¿Cuántas me llevo?](https://www.aceptaelreto.com/problem/statement.php?id=124) | Accepted
 [126 - Divisores del factorial](https://www.aceptaelreto.com/problem/statement.php?id=126) | Accepted
 [140 - Suma de dígitos](https://www.aceptaelreto.com/problem/statement.php?id=140) | Accepted
 [148 - Nochevieja](https://www.aceptaelreto.com/problem/statement.php?id=148) | Accepted
