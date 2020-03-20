@@ -111,6 +111,7 @@ Challenge | Result
 [408 - La maldición de la lotería](https://www.aceptaelreto.com/problem/statement.php?id=408) | Accepted
 [411 - Sobre la tela de una araña](https://www.aceptaelreto.com/problem/statement.php?id=411) | Accepted
 [413 - Claras y oscuras](https://www.aceptaelreto.com/problem/statement.php?id=413) | Accepted
+[416 - Michael J. Fox y el Pato Donald](https://www.aceptaelreto.com/problem/statement.php?id=416) | Accepted
 [417 - Nana al bebé de papá y mamá](https://www.aceptaelreto.com/problem/statement.php?id=417) | Accepted
 [418 - RENUM](https://www.aceptaelreto.com/problem/statement.php?id=418) | Accepted
 [424 - Ahorro infantil](https://www.aceptaelreto.com/problem/statement.php?id=424) | Accepted
