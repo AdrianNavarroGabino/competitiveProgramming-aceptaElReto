@@ -137,6 +137,7 @@ Challenge | Result
 [506 - Tensión descompensada](https://www.aceptaelreto.com/problem/statement.php?id=506) | Accepted
 [512 - Döner sospechoso](https://www.aceptaelreto.com/problem/statement.php?id=512) | Accepted
 [513 - Empleado del año](https://www.aceptaelreto.com/problem/statement.php?id=513) | Accepted
+[514 - El mejor dato del paro](https://www.aceptaelreto.com/problem/statement.php?id=514) | Accepted
 [515 - Poniendo la mesa](https://www.aceptaelreto.com/problem/statement.php?id=515) | Accepted
 [518 - Asamblea General de Indiana](https://www.aceptaelreto.com/problem/statement.php?id=518) | Accepted
 [520 - ¿Dónde está la bolita?](https://www.aceptaelreto.com/problem/statement.php?id=520) | Accepted
