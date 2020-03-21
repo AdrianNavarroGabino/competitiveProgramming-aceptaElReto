@@ -119,6 +119,7 @@ Challenge | Result
 [427 - Yo soy tu...](https://www.aceptaelreto.com/problem/statement.php?id=427) | Accepted
 [428 - Tendencia al lado oscuro](https://www.aceptaelreto.com/problem/statement.php?id=428) | Accepted
 [429 - Organizando los hangares](https://www.aceptaelreto.com/problem/statement.php?id=429) | Accepted
+[430 - Las pruebas del maestro Yoda](https://www.aceptaelreto.com/problem/statement.php?id=430) | Accepted
 [432 - Escapando de las fuerzas imperiales](https://www.aceptaelreto.com/problem/statement.php?id=432) | Accepted
 [433 - Racimos de uvas](https://www.aceptaelreto.com/problem/statement.php?id=433) | Accepted
 [434 - Romance en el palomar](https://www.aceptaelreto.com/problem/statement.php?id=434) | Accepted
