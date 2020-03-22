@@ -130,6 +130,7 @@ Challenge | Result
 [456 - Tarta Sacher](https://www.aceptaelreto.com/problem/statement.php?id=456) | Accepted
 [467 - Polisílaba es polisílaba](https://www.aceptaelreto.com/problem/statement.php?id=467) | Accepted
 [471 - Buscando el pinchazo](https://www.aceptaelreto.com/problem/statement.php?id=471) | Accepted
+[472 - Caminando voy](https://www.aceptaelreto.com/problem/statement.php?id=472) | Accepted
 [474 - Tu amigable vecino](https://www.aceptaelreto.com/problem/statement.php?id=474) | Accepted
 [475 - Cameos de Stan Lee](https://www.aceptaelreto.com/problem/statement.php?id=475) | Accepted
 [477 - A la captura del Doctor Muerte](https://www.aceptaelreto.com/problem/statement.php?id=477) | Accepted
