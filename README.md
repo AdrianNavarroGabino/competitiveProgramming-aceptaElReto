@@ -134,6 +134,7 @@ Challenge | Result
 [474 - Tu amigable vecino](https://www.aceptaelreto.com/problem/statement.php?id=474) | Accepted
 [475 - Cameos de Stan Lee](https://www.aceptaelreto.com/problem/statement.php?id=475) | Accepted
 [477 - A la captura del Doctor Muerte](https://www.aceptaelreto.com/problem/statement.php?id=477) | Accepted
+[478 - Conjuritis](https://www.aceptaelreto.com/problem/statement.php?id=478) | Accepted
 [479 - El hombre sin miedo y sin radar](https://www.aceptaelreto.com/problem/statement.php?id=479) | Accepted
 [480 - ¿Cuántas pido?](https://www.aceptaelreto.com/problem/statement.php?id=480) | Accepted
 [481 - Ajedrez asistido por computador](https://www.aceptaelreto.com/problem/statement.php?id=481) | Accepted
