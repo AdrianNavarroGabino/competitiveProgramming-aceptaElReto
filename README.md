@@ -105,6 +105,7 @@ Challenge | Result
 [382 - Internet en el metro](https://www.aceptaelreto.com/problem/statement.php?id=382) | Accepted
 [388 - Colocando barcos](https://www.aceptaelreto.com/problem/statement.php?id=388) | Accepted
 [390 - Pixel Art](https://www.aceptaelreto.com/problem/statement.php?id=390) | Accepted
+[401 - Trifelios](https://www.aceptaelreto.com/problem/statement.php?id=401) | Accepted
 [403 - En campos de fútbol](https://www.aceptaelreto.com/problem/statement.php?id=403) | Accepted
 [405 - Imprimiendo páginas sueltas](https://www.aceptaelreto.com/problem/statement.php?id=405) | Accepted
 [407 - Rebotando en el parchís](https://www.aceptaelreto.com/problem/statement.php?id=407) | Accepted
