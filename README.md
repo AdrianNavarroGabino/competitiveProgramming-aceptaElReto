@@ -60,6 +60,7 @@ Challenge | Result
 [221 - Entrando al cine](https://www.aceptaelreto.com/problem/statement.php?id=221) | Accepted
 [222 - Serie de potencias](https://www.aceptaelreto.com/problem/statement.php?id=222) | Accepted
 [224 - Los bocadillos de la hormiga reina](https://www.aceptaelreto.com/problem/statement.php?id=224) | Accepted
+[229 - Cuentas paralelas](https://www.aceptaelreto.com/problem/statement.php?id=229) | Accepted
 [233 - Menor número con la misma suma de dígitos](https://www.aceptaelreto.com/problem/statement.php?id=233) | Accepted
 [234 - Carreras de coches](https://www.aceptaelreto.com/problem/statement.php?id=234) | Accepted
 [241 - Me quiere, no me quiere](https://www.aceptaelreto.com/problem/statement.php?id=241) | Accepted
@@ -140,6 +141,7 @@ Challenge | Result
 [479 - El hombre sin miedo y sin radar](https://www.aceptaelreto.com/problem/statement.php?id=479) | Accepted
 [480 - ¿Cuántas pido?](https://www.aceptaelreto.com/problem/statement.php?id=480) | Accepted
 [481 - Ajedrez asistido por computador](https://www.aceptaelreto.com/problem/statement.php?id=481) | Accepted
+[482 - Los calcetines de Ian Malcolm](https://www.aceptaelreto.com/problem/statement.php?id=482) | Accepted
 [485 - Senda pirenaica](https://www.aceptaelreto.com/problem/statement.php?id=485) | Accepted
 [506 - Tensión descompensada](https://www.aceptaelreto.com/problem/statement.php?id=506) | Accepted
 [512 - Döner sospechoso](https://www.aceptaelreto.com/problem/statement.php?id=512) | Accepted
@@ -159,3 +161,7 @@ Challenge | Result
 [537 - Movilidad sostenible](https://www.aceptaelreto.com/problem/statement.php?id=537) | Accepted
 [539 - ¡Feliz década nueva?](https://www.aceptaelreto.com/problem/statement.php?id=539) | Accepted
 [540 - Por el hueco de la escalera](https://www.aceptaelreto.com/problem/statement.php?id=540) | Accepted
+[564 - El misterioso caso de los múltiplos de 7](https://www.aceptaelreto.com/problem/statement.php?id=564) | Accepted
+[569 - Una partidita y nos vamos a clase](https://www.aceptaelreto.com/problem/statement.php?id=569) | Accepted
+[571 - Accidentes aéreos](https://www.aceptaelreto.com/problem/statement.php?id=571) | Accepted
+[572 - Salvados por el 9](https://www.aceptaelreto.com/problem/statement.php?id=572) | Accepted
