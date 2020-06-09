@@ -83,6 +83,7 @@ Challenge | Result
 [314 - Temperaturas extremas](https://www.aceptaelreto.com/problem/statement.php?id=314) | Accepted
 [321 - Double decker](https://www.aceptaelreto.com/problem/statement.php?id=321) | Accepted
 [333 - Números bicapicúa](https://www.aceptaelreto.com/problem/statement.php?id=333) | Accepted
+[334 - Galos, romanos y otras gentes](https://www.aceptaelreto.com/problem/statement.php?id=334) | Accepted
 [335 - Pirámide de canicas](https://www.aceptaelreto.com/problem/statement.php?id=335) | Accepted
 [337 - La abuela María](https://www.aceptaelreto.com/problem/statement.php?id=337) | Accepted
 [342 - ¡No lo puedes saber!](https://www.aceptaelreto.com/problem/statement.php?id=342) | Accepted
