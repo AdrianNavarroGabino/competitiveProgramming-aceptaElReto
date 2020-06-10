@@ -86,6 +86,7 @@ Challenge | Result
 [334 - Galos, romanos y otras gentes](https://www.aceptaelreto.com/problem/statement.php?id=334) | Accepted
 [335 - Pirámide de canicas](https://www.aceptaelreto.com/problem/statement.php?id=335) | Accepted
 [337 - La abuela María](https://www.aceptaelreto.com/problem/statement.php?id=337) | Accepted
+[340 - Cuadrados con cerillas](https://www.aceptaelreto.com/problem/statement.php?id=340) | Accepted
 [342 - ¡No lo puedes saber!](https://www.aceptaelreto.com/problem/statement.php?id=342) | Accepted
 [344 - Conectando cables](https://www.aceptaelreto.com/problem/statement.php?id=344) | Accepted
 [350 - El triángulo de mayor área](https://www.aceptaelreto.com/problem/statement.php?id=350) | Accepted
