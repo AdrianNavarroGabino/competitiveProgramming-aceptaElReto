@@ -134,6 +134,7 @@ Challenge | Result
 [434 - Romance en el palomar](https://www.aceptaelreto.com/problem/statement.php?id=434) | Accepted
 [435 - El Pijote](https://www.aceptaelreto.com/problem/statement.php?id=435) | Accepted
 [436 - ¡Reto superado!](https://www.aceptaelreto.com/problem/statement.php?id=436) | Accepted
+[437 - El anuncio más caro del año](https://www.aceptaelreto.com/problem/statement.php?id=437) | Accepted
 [438 - Esgritura](https://www.aceptaelreto.com/problem/statement.php?id=438) | Accepted
 [439 - Velocidad = desplazamiento/tiempo](https://www.aceptaelreto.com/problem/statement.php?id=439) | Accepted
 [442 - Camellos, serpientes y kebabs](https://www.aceptaelreto.com/problem/statement.php?id=442) | Accepted
