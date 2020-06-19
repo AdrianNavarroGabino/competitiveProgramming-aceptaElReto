@@ -59,6 +59,7 @@ Challenge | Result
 [219 - La lotería de la peña Atlética](https://www.aceptaelreto.com/problem/statement.php?id=219) | Accepted
 [221 - Entrando al cine](https://www.aceptaelreto.com/problem/statement.php?id=221) | Accepted
 [222 - Serie de potencias](https://www.aceptaelreto.com/problem/statement.php?id=222) | Accepted
+[223 - Aprendiendo a multiplicar](https://www.aceptaelreto.com/problem/statement.php?id=223) | Accepted
 [224 - Los bocadillos de la hormiga reina](https://www.aceptaelreto.com/problem/statement.php?id=224) | Accepted
 [229 - Cuentas paralelas](https://www.aceptaelreto.com/problem/statement.php?id=229) | Accepted
 [233 - Menor número con la misma suma de dígitos](https://www.aceptaelreto.com/problem/statement.php?id=233) | Accepted
