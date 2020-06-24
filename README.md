@@ -80,6 +80,7 @@ Challenge | Result
 [272 - Tres dedos en cada mano](https://www.aceptaelreto.com/problem/statement.php?id=272) | Accepted
 [282 - Agujeros en la manguera](https://www.aceptaelreto.com/problem/statement.php?id=282) | Accepted
 [283 - Invirtiendo en Jaén](https://www.aceptaelreto.com/problem/statement.php?id=283) | Accepted
+[284 - La tienda de la esquina](https://www.aceptaelreto.com/problem/statement.php?id=284) | Accepted
 [293 - Artrópodos](https://www.aceptaelreto.com/problem/statement.php?id=293) | Accepted
 [297 - Resistencias en serie](https://www.aceptaelreto.com/problem/statement.php?id=297) | Accepted
 [300 - Palabras pentavocálicas](https://www.aceptaelreto.com/problem/statement.php?id=300) | Accepted
