@@ -55,6 +55,7 @@ Challenge | Result
 [205 - Números de Lychrel](https://www.aceptaelreto.com/problem/statement.php?id=205) | Accepted
 [208 - Tirando bolos](https://www.aceptaelreto.com/problem/statement.php?id=208) | Accepted
 [212 - Operación asfalto](https://www.aceptaelreto.com/problem/statement.php?id=212) | Accepted
+[214 - Abdicación de un Rey](https://www.aceptaelreto.com/problem/statement.php?id=214) | Accepted
 [216 - Goteras](https://www.aceptaelreto.com/problem/statement.php?id=216) | Accepted
 [217 - ¿Qué lado de la calle?](https://www.aceptaelreto.com/problem/statement.php?id=217) | Accepted
 [219 - La lotería de la peña Atlética](https://www.aceptaelreto.com/problem/statement.php?id=219) | Accepted
