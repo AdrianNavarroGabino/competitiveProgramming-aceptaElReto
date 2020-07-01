@@ -75,6 +75,7 @@ Challenge | Result
 [245 - Los Dalton](https://www.aceptaelreto.com/problem/statement.php?id=245) | Accepted
 [247 - Saliendo de la crisis](https://www.aceptaelreto.com/problem/statement.php?id=247) | Accepted
 [252 - ¿Acaso hubo búhos acá?](https://www.aceptaelreto.com/problem/statement.php?id=252) | Accepted
+[260 - Alan Smithee](https://www.aceptaelreto.com/problem/statement.php?id=260) | Accepted
 [262 - Ada, Babbage y Bernouilli](https://www.aceptaelreto.com/problem/statement.php?id=262) | Accepted
 [265 - Suma descendente](https://www.aceptaelreto.com/problem/statement.php?id=265) | Accepted
 [267 - Postes para un cercado](https://www.aceptaelreto.com/problem/statement.php?id=267) | Accepted
