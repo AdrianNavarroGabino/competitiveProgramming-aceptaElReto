@@ -66,6 +66,7 @@ Challenge | Result
 [229 - Cuentas paralelas](https://www.aceptaelreto.com/problem/statement.php?id=229) | Accepted
 [233 - Menor número con la misma suma de dígitos](https://www.aceptaelreto.com/problem/statement.php?id=233) | Accepted
 [234 - Carreras de coches](https://www.aceptaelreto.com/problem/statement.php?id=234) | Accepted
+[236 - Los orígenes del ajedrez](https://www.aceptaelreto.com/problem/statement.php?id=236) | Accepted
 [237 - Números polidivisibles](https://www.aceptaelreto.com/problem/statement.php?id=237) | Accepted
 [238 - Repartiendo el botín](https://www.aceptaelreto.com/problem/statement.php?id=238) | Accepted
 [241 - Me quiere, no me quiere](https://www.aceptaelreto.com/problem/statement.php?id=241) | Accepted
