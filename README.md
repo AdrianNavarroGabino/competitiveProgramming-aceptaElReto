@@ -99,7 +99,8 @@ Challenge | Result
 [337 - La abuela María](https://www.aceptaelreto.com/problem/statement.php?id=337) | Accepted
 [340 - Cuadrados con cerillas](https://www.aceptaelreto.com/problem/statement.php?id=340) | Accepted
 [342 - ¡No lo puedes saber!](https://www.aceptaelreto.com/problem/statement.php?id=342) | Accepted
-[344 - Conectando cables](https://www.aceptaelreto.com/problem/statement.php?id=344) | Accepted
+[344 - Conectando cables](https://www.aceptaelreto.com/problem/statement.php?id=346) | Accepted
+[346 - El hombre con seis dedos](https://www.aceptaelreto.com/problem/statement.php?id=344) | Accepted
 [347 - Haciendo pajaritas de papel](https://www.aceptaelreto.com/problem/statement.php?id=347) | Accepted
 [350 - El triángulo de mayor área](https://www.aceptaelreto.com/problem/statement.php?id=350) | Accepted
 [354 - ¡Los niños primero!](https://www.aceptaelreto.com/problem/statement.php?id=354) | Accepted
