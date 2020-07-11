@@ -116,6 +116,7 @@ Challenge | Result
 [370 - La 13-14](https://www.aceptaelreto.com/problem/statement.php?id=370) | Accepted
 [371 - Aburrimiento en las sobremesas](https://www.aceptaelreto.com/problem/statement.php?id=371) | Accepted
 [372 - La farsante de Mary Poppins](https://www.aceptaelreto.com/problem/statement.php?id=372) | Accepted
+[373 - Cubos visibles](https://www.aceptaelreto.com/problem/statement.php?id=373) | Accepted
 [374 - Criogenización](https://www.aceptaelreto.com/problem/statement.php?id=374) | Accepted
 [376 - Siete picos](https://www.aceptaelreto.com/problem/statement.php?id=376) | Accepted
 [380 - ¡Me caso!](https://www.aceptaelreto.com/problem/statement.php?id=380) | Accepted
