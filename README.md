@@ -12,6 +12,7 @@ Challenge | Result
 [102 - Encriptación de mensajes](https://www.aceptaelreto.com/problem/statement.php?id=102) | Accepted
 [103 - Problemas de Herencia](https://www.aceptaelreto.com/problem/statement.php?id=103) | Accepted
 [104 - Móviles](https://www.aceptaelreto.com/problem/statement.php?id=104) | Accepted
+[105 - Ventas](https://www.aceptaelreto.com/problem/statement.php?id=105) | Accepted
 [112 - Radares de tramo](https://www.aceptaelreto.com/problem/statement.php?id=112) | Accepted
 [114 - Último dígito del factorial](https://www.aceptaelreto.com/problem/statement.php?id=114) | Accepted
 [116 - ¡Hola Mundo!](https://www.aceptaelreto.com/problem/statement.php?id=116) | Accepted
