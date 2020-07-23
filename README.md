@@ -14,6 +14,7 @@ Challenge | Result
 [104 - Móviles](https://www.aceptaelreto.com/problem/statement.php?id=104) | Accepted
 [105 - Ventas](https://www.aceptaelreto.com/problem/statement.php?id=105) | Accepted
 [106 - Códigos de barras](https://www.aceptaelreto.com/problem/statement.php?id=106) | Accepted
+[107 - Aproximación de Gauss](https://www.aceptaelreto.com/problem/statement.php?id=107) | Accepted
 [112 - Radares de tramo](https://www.aceptaelreto.com/problem/statement.php?id=112) | Accepted
 [114 - Último dígito del factorial](https://www.aceptaelreto.com/problem/statement.php?id=114) | Accepted
 [116 - ¡Hola Mundo!](https://www.aceptaelreto.com/problem/statement.php?id=116) | Accepted
